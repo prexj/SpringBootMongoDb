@@ -1565,7 +1565,7 @@ After load above page and click on search link then open under page
 
 # That's it... you are ready to run
 
-> Right Click on Project > Run As > click on spring boot app > Ater that run the project and go browser and type in url ``http://localhost:8099/``
+> Right Click on Project > Run As > click on spring boot app > Ater that run the project and go on browser and type in url ``http://localhost:8099/``
 
 
 ## Meta
